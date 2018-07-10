@@ -34,3 +34,7 @@ Install and run docker with ```sudo docker run -it fraserlai/276_project:gym_10_
 
 ## **Run** ##
 Open and run *main_experience_replay.ipynb*
+
+## **Reference** ##
+* [openai baseline](https://github.com/openai/baselines/tree/master/baselines/a2c)
+* [ikostrikov pytorch-a2c-ppo-acktr](https://github.com/ikostrikov/pytorch-a2c-ppo-acktr)
