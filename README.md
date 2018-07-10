@@ -4,8 +4,12 @@
 Implemented A2C algorithm with experience replay
 
 ## **Result** ##
-![Alt text](img/Mountaincar_buff.jpg)
-![Alt text](img/Mountaincar_prioritized.jpg)
+![Alt text](img/Mountaincar_buff.jpg)  
+![Alt text](img/Mountaincar_sample_size.jpg)  
+![Alt text](img/Mountaincar_prioritized.jpg)  
+![Alt text](img/carpole_buffer.jpg)  
+![Alt text](img/carpole_sample.jpg)  
+![Alt text](img/carpole_prioritize.jpg)  
 [Video](https://www.youtube.com/watch?v=mIvstl3QufM)  
 [Report](https://drive.google.com/file/d/1md8jDYBwizvwJi0ZLNM8QnIsN7h0qIHq/view?usp=sharing)  
 
