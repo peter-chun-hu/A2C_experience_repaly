@@ -3,7 +3,7 @@
 ## **Introduction** ##
 Implemented A2C algorithm with experience replay
 
-## **Result** ##
+## **Results** ##
 ###A2C algorithm WITHOUT experience replay is the baseline###
 ## MountainCar-v0##
 * ###Different replay buffer size###
