@@ -36,5 +36,5 @@
 * ### Open and run *main_experience_replay.ipynb*
 
 ## **Reference** ##
-* [openai baseline](https://github.com/openai/baselines/tree/master/baselines/a2c)
-* [ikostrikov pytorch-a2c-ppo-acktr](https://github.com/ikostrikov/pytorch-a2c-ppo-acktr)
+* ### [openai baseline](https://github.com/openai/baselines/tree/master/baselines/a2c)
+* ### [ikostrikov pytorch-a2c-ppo-acktr](https://github.com/ikostrikov/pytorch-a2c-ppo-acktr)
