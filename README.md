@@ -4,14 +4,14 @@
 * Implemented A2C algorithm with experience replay
 * A2C algorithm WITHOUT experience replay is the baseline in our results
 ## **Results**
-* MountainCar-v0  
+* ### MountainCar-v0  
      * Different replay buffer size  
      ![Alt text](imgs/Mountaincar_buff.jpg)  
      * Different sample number  
      ![Alt text](imgs/Mountaincar_sample_size.jpg)  
      * Prioritized or not  
      ![Alt text](imgs/Mountaincar_prioritized.jpg)  
-* CartPole-v1  
+* ### CartPole-v1  
      * Different replay buffer size  
      ![Alt text](imgs/carpole_buffer.jpg)  
      * Different sample number  
