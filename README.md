@@ -7,6 +7,7 @@
 * ### A2C algorithm WITHOUT experience replay is the baseline
 * ## MountainCar-v0  
      * ### Different replay buffer size
+     * ### Different sample number  
 ![Alt text](imgs/Mountaincar_buff.jpg)  
      * ### Different sample number  
 ![Alt text](imgs/Mountaincar_sample_size.jpg)  
