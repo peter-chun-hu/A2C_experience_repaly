@@ -7,20 +7,18 @@
 * ### A2C algorithm WITHOUT experience replay is the baseline
 * ## MountainCar-v0  
      * ### Different replay buffer size
-     ![Alt text](imgs/Mountaincar_buff.jpg)
+     ![Alt text](imgs/Mountaincar_buff.jpg)  
      * ### Different sample number  
-![Alt text](imgs/Mountaincar_buff.jpg)  
-     * ### Different sample number  
-![Alt text](imgs/Mountaincar_sample_size.jpg)  
+     ![Alt text](imgs/Mountaincar_sample_size.jpg)  
      * ### Prioritized or not  
-![Alt text](imgs/Mountaincar_prioritized.jpg)  
+     ![Alt text](imgs/Mountaincar_prioritized.jpg)  
 * ## CartPole-v1  
      * ### Different replay buffer size  
-![Alt text](imgs/carpole_buffer.jpg)  
+     ![Alt text](imgs/carpole_buffer.jpg)  
      * ### Different sample number  
-![Alt text](imgs/carpole_sample.jpg)  
+     ![Alt text](imgs/carpole_sample.jpg)  
      * ### Prioritized or not  
-![Alt text](imgs/carpole_prioritize.jpg)  
+     ![Alt text](imgs/carpole_prioritize.jpg)  
 * ## Please see the video or the report for more results
      * ### Video (Click the image below to play on YouTube)  
      [![](http://img.youtube.com/vi/mIvstl3QufM/0.jpg)](http://www.youtube.com/watch?v=mIvstl3QufM)
