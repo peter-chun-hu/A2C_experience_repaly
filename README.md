@@ -20,7 +20,8 @@
      * ### Prioritized or not
 ![Alt text](img/carpole_prioritize.jpg)
 * ## Please see the video or the report for more results
-     * ### [Video](https://www.youtube.com/watch?v=mIvstl3QufM)
+     * ### Video (Click the image below to play on YouTube)  
+     [![](http://img.youtube.com/vi/mIvstl3QufM/0.jpg)](http://www.youtube.com/watch?v=mIvstl3QufM)
      * ### [Report](https://drive.google.com/file/d/1md8jDYBwizvwJi0ZLNM8QnIsN7h0qIHq/view?usp=sharing)
 
 ## **Environment**
