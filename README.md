@@ -23,7 +23,7 @@
 * [Report](ece-276-final.pdf)
 
 ## **Environment**
-* ### Install and run docker with ```sudo docker run -it fraserlai/276_project:gym_10_TA_v6 /bin/bash```
+* Install and run docker with ```sudo docker run -it fraserlai/276_project:gym_10_TA_v6 /bin/bash```
 
 ## **Requirements**
 * Python 3
